@@ -1,0 +1,16 @@
+# Specify Python version (use either version)
+python_version == 3.7.*  # or you can use 3.9.* depending on the environment
+
+# CherryPy web framework
+CherryPy==18.6.1
+
+# CORS support for CherryPy
+cherrypy-cors==1.6
+
+# Utility modules
+pymavlink==2.4.18
+dronekit==2.9.2
+MAVProxy==1.8.53  # For simulation
+
+# Decimal handling
+decimal
