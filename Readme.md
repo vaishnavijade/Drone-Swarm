@@ -45,6 +45,9 @@ npm install
 With these instructions, your requirements.txt will handle the Python dependencies, and the rest can be handled via system-specific setup steps.
 
 
+## 🎥 Demo Video
+
+https://private-user-images.githubusercontent.com/146514554/464277188-2ef0a9e3-fa9d-40e2-b4a2-246cea0d2745.mp4
 
 
 
