@@ -50,6 +50,9 @@ With these instructions, your requirements.txt will handle the Python dependenci
 https://private-user-images.githubusercontent.com/146514554/464277188-2ef0a9e3-fa9d-40e2-b4a2-246cea0d2745.mp4
 
 
+## 🎮 led display
+
+https://private-user-images.githubusercontent.com/146514554/464280493-fa15f86d-e205-4fa9-a995-7ffc433f5cb4.mp4
 
 
 
